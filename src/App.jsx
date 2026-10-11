@@ -1,5 +1,11 @@
 import { useEffect, useState } from 'react'
 import { About } from './components/portfolio/About'
+import { Achievements } from './components/portfolio/Achievements'
+import { Certificates } from './components/portfolio/Certificates'
+import { Experience } from './components/portfolio/Experience'
+import { Education } from './components/portfolio/Education'
+import { Contact } from './components/portfolio/Contact'
+import { Resume } from './components/portfolio/Resume'
 import { Hero } from './components/portfolio/Hero'
 import { Projects } from './components/portfolio/Projects'
 import { Skills } from './components/portfolio/Skills'
@@ -35,6 +41,12 @@ function App() {
         <About />
         <Skills />
         <Projects />
+        <Achievements />
+        <Certificates />
+        <Experience />
+        <Education />
+        <Contact />
+        <Resume />
       </main>
     </SiteShell>
   )

@@ -1,0 +1,32 @@
+export const experienceEntries = [
+  {
+    id: 'sample-practical-learning-role',
+    title: 'Sample Practical Learning Role',
+    organization: 'Sample organization',
+    employmentType: 'Sample experience type',
+    startDate: 'Sample start date',
+    endDate: 'Sample end date',
+    description: 'Sample placeholder for a future verified practical learning, internship, or employment experience.',
+    responsibilities: [],
+  },
+  {
+    id: 'sample-technical-experience',
+    title: 'Sample Technical Experience',
+    organization: 'Sample organization',
+    employmentType: 'Sample experience type',
+    startDate: 'Sample start date',
+    endDate: 'Sample end date',
+    description: 'Sample placeholder for a future verified technical experience entry.',
+    responsibilities: [],
+  },
+  {
+    id: 'sample-learning-milestone',
+    title: 'Sample Learning Milestone',
+    organization: 'Sample organization',
+    employmentType: 'Sample experience type',
+    startDate: 'Sample start date',
+    endDate: 'Present',
+    description: 'Sample placeholder for a future verified ongoing learning or practical experience entry.',
+    responsibilities: [],
+  },
+]

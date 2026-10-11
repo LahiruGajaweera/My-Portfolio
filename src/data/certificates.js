@@ -1,0 +1,32 @@
+export const certificates = [
+  {
+    id: 'sample-technical-certificate',
+    title: 'Sample Technical Certificate',
+    issuer: 'Sample issuing organization',
+    issueDate: 'Sample issue date',
+    credentialId: null,
+    credentialUrl: null,
+    imageUrl: null,
+    certificatePdfUrl: null,
+  },
+  {
+    id: 'sample-learning-certificate',
+    title: 'Sample Learning Certificate',
+    issuer: 'Sample issuing organization',
+    issueDate: 'Sample issue date',
+    credentialId: null,
+    credentialUrl: null,
+    imageUrl: null,
+    certificatePdfUrl: null,
+  },
+  {
+    id: 'sample-professional-certificate',
+    title: 'Sample Professional Certificate',
+    issuer: 'Sample issuing organization',
+    issueDate: 'Sample issue date',
+    credentialId: null,
+    credentialUrl: null,
+    imageUrl: null,
+    certificatePdfUrl: null,
+  },
+]
